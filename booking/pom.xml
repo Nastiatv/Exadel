@@ -26,7 +26,7 @@
         <version.org.liquibase>3.8.5</version.org.liquibase>
         <version.io.springfox>2.9.2</version.io.springfox>
         <version.jakarta.validation>2.0.2</version.jakarta.validation>
-        <version.org.postgresql>42.2.12</version.org.postgresql>
+        <version.org.postgresql>42.2.25</version.org.postgresql>
         <version.io.jsonwebtoken>0.9.1</version.io.jsonwebtoken>
         <version.junit>4.12</version.junit>
         <version.com.h2database>1.4.200</version.com.h2database>
