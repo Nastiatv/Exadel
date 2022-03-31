@@ -18,7 +18,7 @@
     <properties>
         <java.version>1.8</java.version>
         <version.javax.persistence-api>2.2</version.javax.persistence-api>
-        <version.org.springframework.boot>2.3.1.RELEASE</version.org.springframework.boot>
+        <version.org.springframework.boot>2.5.12</version.org.springframework.boot>
         <version.org.projectlombok>1.18.10</version.org.projectlombok>
         <version.org.modelmapper>2.3.2</version.org.modelmapper>
         <version.org.liquibase>3.8.5</version.org.liquibase>
